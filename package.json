@@ -5,6 +5,9 @@
     "repository": "https://github.com/yurychang/learn-mongodb.git",
     "author": "Peter Chang",
     "license": "MIT",
+    "scripts": {
+        "dev": "node src/index.js"
+    },
     "dependencies": {
         "mongoose": "^7.0.3"
     }
