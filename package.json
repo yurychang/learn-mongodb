@@ -1,0 +1,8 @@
+{
+    "name": "learn-mongodb",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/yurychang/learn-mongodb.git",
+    "author": "Peter Chang",
+    "license": "MIT"
+}
